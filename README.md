@@ -1,6 +1,7 @@
 # capybara-facts-api
 
-https://mikiwolfe.github.io/capybara-facts-api/
+
+https://mikiwolfe.github.io/capybara-facts-api/data/data.json
 
 
 ## Sources: 
