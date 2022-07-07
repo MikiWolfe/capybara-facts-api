@@ -1,7 +1,5 @@
 const factEl = document.getElementById('fact')
 
-console.log("hello world")
-
 let randomFact
 
 function getFact() {
