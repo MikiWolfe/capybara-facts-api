@@ -8,6 +8,15 @@ Please email me at mkla.w.b@gmail.com if you think that I forgot any fun facts a
 fetch from this URL for JSON data: 
 https://mikiwolfe.github.io/capybara-facts-api/data/data.json
 
+## Repo
+
+Link to the repo:
+
+https://github.com/MikiWolfe/capybara-facts-api
+
+Link to the page in action: 
+ https://mikiwolfe.github.io/capybara-facts-api/
+ 
 ## Sources: 
 
 I have included sources for all the facts that I have collected. 
